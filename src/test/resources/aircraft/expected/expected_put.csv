@@ -1,0 +1,2 @@
+id, flight, route, speed, airline, previousFlights, totalFlightTime, registrationInfo
+1, "UA", "Ger",400,"Airway","Ukraine",20,"70776"
